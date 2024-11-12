@@ -1,0 +1,14 @@
+C:\Users\W11\Desktop\tolga_programming_ödev1\GameProgramming1\bin\Debug\net8.0\GameProgramming1.exe
+C:\Users\W11\Desktop\tolga_programming_ödev1\GameProgramming1\bin\Debug\net8.0\GameProgramming1.deps.json
+C:\Users\W11\Desktop\tolga_programming_ödev1\GameProgramming1\bin\Debug\net8.0\GameProgramming1.runtimeconfig.json
+C:\Users\W11\Desktop\tolga_programming_ödev1\GameProgramming1\bin\Debug\net8.0\GameProgramming1.dll
+C:\Users\W11\Desktop\tolga_programming_ödev1\GameProgramming1\bin\Debug\net8.0\GameProgramming1.pdb
+C:\Users\W11\Desktop\tolga_programming_ödev1\GameProgramming1\obj\Debug\net8.0\GameProgramming1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\W11\Desktop\tolga_programming_ödev1\GameProgramming1\obj\Debug\net8.0\GameProgramming1.AssemblyInfoInputs.cache
+C:\Users\W11\Desktop\tolga_programming_ödev1\GameProgramming1\obj\Debug\net8.0\GameProgramming1.AssemblyInfo.cs
+C:\Users\W11\Desktop\tolga_programming_ödev1\GameProgramming1\obj\Debug\net8.0\GameProgramming1.csproj.CoreCompileInputs.cache
+C:\Users\W11\Desktop\tolga_programming_ödev1\GameProgramming1\obj\Debug\net8.0\GameProgramming1.dll
+C:\Users\W11\Desktop\tolga_programming_ödev1\GameProgramming1\obj\Debug\net8.0\refint\GameProgramming1.dll
+C:\Users\W11\Desktop\tolga_programming_ödev1\GameProgramming1\obj\Debug\net8.0\GameProgramming1.pdb
+C:\Users\W11\Desktop\tolga_programming_ödev1\GameProgramming1\obj\Debug\net8.0\GameProgramming1.genruntimeconfig.cache
+C:\Users\W11\Desktop\tolga_programming_ödev1\GameProgramming1\obj\Debug\net8.0\ref\GameProgramming1.dll
