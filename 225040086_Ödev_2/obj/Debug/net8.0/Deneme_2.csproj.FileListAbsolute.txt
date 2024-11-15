@@ -1,0 +1,14 @@
+C:\Users\W11\Desktop\programming deneme 2\Deneme_2\bin\Debug\net8.0\Deneme_2.exe
+C:\Users\W11\Desktop\programming deneme 2\Deneme_2\bin\Debug\net8.0\Deneme_2.deps.json
+C:\Users\W11\Desktop\programming deneme 2\Deneme_2\bin\Debug\net8.0\Deneme_2.runtimeconfig.json
+C:\Users\W11\Desktop\programming deneme 2\Deneme_2\bin\Debug\net8.0\Deneme_2.dll
+C:\Users\W11\Desktop\programming deneme 2\Deneme_2\bin\Debug\net8.0\Deneme_2.pdb
+C:\Users\W11\Desktop\programming deneme 2\Deneme_2\obj\Debug\net8.0\Deneme_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\W11\Desktop\programming deneme 2\Deneme_2\obj\Debug\net8.0\Deneme_2.AssemblyInfoInputs.cache
+C:\Users\W11\Desktop\programming deneme 2\Deneme_2\obj\Debug\net8.0\Deneme_2.AssemblyInfo.cs
+C:\Users\W11\Desktop\programming deneme 2\Deneme_2\obj\Debug\net8.0\Deneme_2.csproj.CoreCompileInputs.cache
+C:\Users\W11\Desktop\programming deneme 2\Deneme_2\obj\Debug\net8.0\Deneme_2.dll
+C:\Users\W11\Desktop\programming deneme 2\Deneme_2\obj\Debug\net8.0\refint\Deneme_2.dll
+C:\Users\W11\Desktop\programming deneme 2\Deneme_2\obj\Debug\net8.0\Deneme_2.pdb
+C:\Users\W11\Desktop\programming deneme 2\Deneme_2\obj\Debug\net8.0\Deneme_2.genruntimeconfig.cache
+C:\Users\W11\Desktop\programming deneme 2\Deneme_2\obj\Debug\net8.0\ref\Deneme_2.dll
